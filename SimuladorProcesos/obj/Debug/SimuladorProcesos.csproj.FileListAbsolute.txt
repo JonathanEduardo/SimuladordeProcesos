@@ -1,0 +1,63 @@
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Simulador.resources
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
+C:\Users\JhonPC\Downloads\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Consulta.resources
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Consulta.resources
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Simulador.resources
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\bin\Debug\System.Data.SQLite.dll
+C:\Users\hilar\Desktop\ProyectoIntegrador\SimuladorProcesos\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CopyComplete
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\System.Data.SQLite.dll
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Consulta.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Simulador.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CopyComplete
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\navatci\Downloads\SimuladorProcesosconbd\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\System.Data.SQLite.dll
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Consulta.resources
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Simulador.resources
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CopyComplete
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\JhonPC\Desktop\nuevoProyectointegrador\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\bin\Debug\System.Data.SQLite.dll
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Consulta.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Simulador.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CopyComplete
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\navatci\Downloads\SimuladorProcesosconbd (1)\SimuladorProcesosconbd\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
